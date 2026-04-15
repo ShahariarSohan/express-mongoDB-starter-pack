@@ -1,0 +1,5 @@
+node_modules/@prisma/client/default.d.ts(1,15): error TS2307: Cannot find module '.prisma/client/default' or its corresponding type declarations.
+src/app/middlewares/globalErrorHandler.ts(9,10): error TS2305: Module '"@prisma/client"' has no exported member 'Prisma'.
+src/app/modules/project/project.service.ts(3,10): error TS2305: Module '"@prisma/client"' has no exported member 'Project'.
+src/app/modules/task/task.service.ts(3,10): error TS2305: Module '"@prisma/client"' has no exported member 'Task'.
+src/app/modules/user/user.service.ts(7,10): error TS2305: Module '"@prisma/client"' has no exported member 'User'.
